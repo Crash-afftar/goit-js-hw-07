@@ -1,0 +1,10 @@
+{
+    "liveServer.settings.useWebExt": true,
+    "liveServer.settings.ignoreFiles": [
+        
+        ".vscode/**",
+        "**/*.scss",
+        "**/*.sass",
+        "**/*.ts"
+    ]
+}
